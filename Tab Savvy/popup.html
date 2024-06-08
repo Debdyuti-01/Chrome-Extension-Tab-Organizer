@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tab Savvy</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <h1>Tab Savvy: Navigate Your Browser with Ease!</h1>
+  <input type="text" id="search" placeholder="Search tabs...">
+  <button id="group-by-domain">Group by Domain</button>
+  <button id="group-by-content">Group by Content</button>
+  <button id="start-pomodoro">Start Timer</button>
+  <div id="task-list">
+    <h2>Task List</h2>
+    <input type="text" id="task-input" placeholder="Add a new task...">
+    <button id="add-task-button">Add Task</button>
+    <ul id="tasks"></ul>
+  </div>
+  <div id="note-section">
+    <h2>Notes</h2>
+    <textarea id="note-input" placeholder="Add a new note..."></textarea>
+    <button id="add-note-button">Add Note</button>
+    <ul id="notes"></ul>
+  </div>
+  <div id="tab-list"></div>
+  <div id="timer-display"></div>
+  <script src="popup.js"></script>
+</body>
+</html>
