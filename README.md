@@ -21,3 +21,5 @@ Search Functionality:
 ### Social Media Blocker:
 
 Enhance Focus: Reduce distractions by blocking popular social media sites such as Facebook, Twitter, Instagram. Ensure your work sessions remain productive and free from unnecessary interruptions.
+
+
