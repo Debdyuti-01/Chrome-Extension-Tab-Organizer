@@ -2,6 +2,8 @@
 
 Introducing Tab Savvy, your ultimate tab management and productivity extension for Google Chrome. Designed to help you effortlessly organize, prioritize, and control your tabs, Tab Savvy ensures a streamlined browsing experience, allowing you to focus on what truly matters. With a suite of powerful features, Tab Savvy is here to transform how you navigate the web.
 
+![Tab Savvy](https://github.com/Debdyuti-01/Chrome-Extension-Tab-Organizer/blob/main/Screenshot.png)
+
 ## Key Features 
 
 ### Tab Organization:
